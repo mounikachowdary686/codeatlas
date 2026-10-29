@@ -1,0 +1,16 @@
+# Ignore old C practice backup folder
+c_practice_backup/
+
+# Executables & binaries
+*.exe
+*.o
+*.obj
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
